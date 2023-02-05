@@ -17,7 +17,7 @@ The tube is filled with **toothpaste** – a soft cream-like substance used for 
 8. Hold the toothbrush horizontally, the head facing upwards.
 9. Tilt the tube of toothpaste in the right hand so that it is placed diagonally to the toothbrush, and move it towards the toothbrush. The opening of the toothpaste tube should be approximately 1 inch above the head of the toothbrush. 
 10. Now slowly and gently press the tube with the thumb and the index finger. It is the easiest to do it when you are holding the tube somewhere in the middle*).    
-![How to apply](./praca%20domowa/images/apply.jpg)  
+![How to apply](./praca%20domowa/apply.jpg)  
 11. A small amount of toothpaste will appear at the opening. Slide it along the brush - it will stick to the brush. The strain of toothpaste should be about 1 cm long.
 12. Put the head of the brush in your mouth.
 13. Now your hand is free – take the cap, place it on the opening of the toothpaste tube and turn clockwise to close it. Do not turn too tight.
