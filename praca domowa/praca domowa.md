@@ -38,7 +38,7 @@ _For English version, see:_
 
 
 
-![i jeszcze trzeci](./praca%20domowa/English2.jpg)
+![i jeszcze trzeci](./kapturek.pdf)
 
 
 
