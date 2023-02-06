@@ -30,30 +30,15 @@ _For English version, see:_
 
 
 
-![tu będzie drugi obrazek](./English.pdf)  
+
+![tu będzie drugi obrazek](./English2.jpg)  
 
 
 
 
 
 
-
-
-
-
-
-
-![tu będzie trzeci obrazek](./English2.jpg)  
-
-
-
-![tu będzie czwarty obrazek](./praca%20domowa/English.pdf)  
-
-
-
-
-
-![i jeszcze piąty](./praca%20domowa/English2.jpg)
+![i jeszcze trzeci](./praca%20domowa/English2.jpg)
 
 
 
