@@ -38,7 +38,7 @@ _For English version, see:_
 
 
 
-![i jeszcze trzeci](./kapturek.pdf)
+![i jeszcze trzeci](./images/grafik.pdf)
 
 
 
